@@ -1,0 +1,48 @@
+Title:
+	How has the automotive industry stock prices preformed in 2020?
+	
+
+Motivation: 
+	With the covid pandemic, we wanted to analyze the perfromance of automotive industries stock perfromance.
+	Given the stay at home order mandated by most if not all states, we wanted to look at which manufacturers preformed best
+	given these unusual circumstances. 
+	
+	What type of questions did we want to answer?
+		Which stock in the industry was the best investment?
+		Was that stock highly risk dependent?
+		was manufactuer region or market segment more important to manufacturer performance?
+		
+	
+Questions and Data:
+
+		1. Does the stock with highest risk provide the highest expected return. 
+		a. Monte Carlo simulation
+			i. Needs
+				1) Dataframe with all manufacturers 
+				2) Calculate moving averages all
+				3) Calculate daily return averages	
+		
+		2. Which car manufacturer should a investor choose for the following  preferences? ( high and low risk) 
+		
+		3. Is there any correlation in stock performance for manufactures based on geographic region (US. , EU, AS)
+		a. Correlation matrix in seaborn ( compares all companies end price for in a given region)
+		
+		4. Is  there any correlation in stock performance for manufacturers based on market segmentation ( median base price ranges) 
+		a. Group manufactures by average base price
+
+
+
+
+
+ Post Mortem
+
+  * Discuss any difficulties that arose, and how you dealt with them
+	- 
+  * Discuss any additional questions that came up, but which you didn't have time to answer: What would you research next, if you had two more weeks?
+	-
+
+
+most companies adj close and volume follow similar patterns during may of this year (covid declaration)... 
+	... these following companies operate differently than the others.....(TSLA, Toyata, ...etc.)
+	
+	
