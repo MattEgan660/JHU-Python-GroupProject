@@ -1,0 +1,569 @@
+,Hyundai,Accent ," $16,270.00 ",Manufacturer,Model,MSRP,Company
+0,Hyundai,Eleantra ," $20,275.00 ",,,,
+1,Hyundai,Ioniq Elecrtic ," $34,020.00 ",,,,
+2,Hyundai,Ioniq Hybrid ," $24,175.00 ",,,,
+3,Hyundai,loniq Plug- In Hybrid ," $27,475.00 ",,,,
+4,Hyundai,Sonata ," $26,695.00 ",,,,
+5,Hyundai,Sonata Hybrid," $28,725.00 ",,,,
+6,Hyundai,Sonata Plug -In Hybrid," $34,355.00 ",,,,
+7,Hyundai,Kona ," $21,540.00 ",,,,
+8,Hyundai,Kona Electric," $38,330.00 ",,,,
+9,Hyundai,Nexo ," $59,875.00 ",,,,
+10,Hyundai,Palisade," $33,665.00 ",,,,
+11,Hyundai,Sante Fe," $27,415.00 ",,,,
+12,Hyundai,Tuscon," $27,840.00 ",,,,
+13,Hyundai,Venue," $18,490.00 ",,,,
+14,Hyundai,Veloater ," $19,775.00 ",,,,
+15,Honda ,Accord ," $22,225.00 ",,,,
+16,Honda ,Accord Hybrid," $26,825.00 ",,,,
+17,Honda ,Civic," $20,955.00 ",,,,
+18,Honda ,Civic Type R," $37,950.00 ",,,,
+19,Honda ,Clarity Electric ," $37,575.00 ",,,,
+20,Honda ,Clarity Full Cell," $59,445.00 ",,,,
+21,Honda ,Clarity Plug-In Hybrid," $34,355.00 ",,,,
+22,Honda ,Fit," $17,145.00 ",,,,
+23,Honda ,Insight ," $23,885.00 ",,,,
+24,Honda ,CR-V," $26,270.00 ",,,,
+25,Honda ,CR-V Hybrid," $28,970.00 ",,,,
+26,Honda ,HR-V ," $22,040.00 ",,,,
+27,Honda ,Passport ," $33,710.00 ",,,,
+28,Honda ,Pilot ," $33,770.00 ",,,,
+29,Honda ,Ridgeline," $35,020.00 ",,,,
+30,Honda ,Odyseey," $32,910.00 ",,,,
+31,Toyota,Avalon," $36,870.00 ",,,,
+32,Toyota,Avalon Hybrid," $37,955.00 ",,,,
+33,Toyota,Camry," $25,420.00 ",,,,
+34,Toyota,Camry Hybrid," $29,385.00 ",,,,
+35,Toyota,Corolla," $20,780.00 ",,,,
+36,Toyota,Corolla Hybrid," $24,355.00 ",,,,
+37,Toyota,Mirai," $59,505.00 ",,,,
+38,Toyota,Prius," $25,480.00 ",,,,
+39,Toyota,Prius Prime," $28,855.00 ",,,,
+40,Toyota,Yaris," $16,605.00 ",,,,
+41,Toyota,4Runner," $37,240.00 ",,,,
+42,Toyota,C-HR," $22,415.00 ",,,,
+43,Toyota,Highlander," $35,720.00 ",,,,
+44,Toyota,Highlander Hybrid," $39,585.00 ",,,,
+45,Toyota,Land Cruiser," $86,740.00 ",,,,
+46,Toyota,Rav4," $24,225.00 ",,,,
+47,Toyota,Rav4 Hybrid," $29,675.00 ",,,,
+48,Toyota,Rav4 Prime ," $39,220.00 ",,,,
+49,Toyota,Sequoia," $51,375.00 ",,,,
+50,Toyota,Venza," $33,645.00 ",,,,
+51,Toyota,Tacoma Access Cab," $27,170.00 ",,,,
+52,Toyota,Tacoma Access Double Cab," $39,910.00 ",,,,
+53,Toyota,Turndra CrewMax," $39,445.00 ",,,,
+54,Toyota,Tundra Double Cab," $35,170.00 ",,,,
+55,Toyota,Sienna," $32,760.00 ",,,,
+56,Toyota,86," $28,015.00 ",,,,
+57,Toyota,Gr Supra ," $50,945.00 ",,,,
+58,Toyota,Corolla Hatchback ," $21,560.00 ",,,,
+59,Toyota,Yaris Hatchback ," $18,705.00 ",,,,
+60,Toyota,Corolla Hatchback ," $21,560.00 ",,,,
+61,Mazda,Mazda3," $21,445.00 ",,,,
+62,Mazda,Mazda6," $25,045.00 ",,,,
+63,Mazda,CX-3," $21,740.00 ",,,,
+64,Mazda,CX-30," $23,000.00 ",,,,
+65,Mazda,CX-5," $26,370.00 ",,,,
+66,Mazda,CX-9," $35,060.00 ",,,,
+67,Mazda,MX-5 Miata RF," $33,990.00 ",,,,
+68,Mazda,MX-5 Miata," $27,525.00 ",,,,
+69,Nissan,Altima ," $25,225.00 ",,,,
+70,Nissan,Maxima ," $35,375.00 ",,,,
+71,Nissan,Sentra," $20,235.00 ",,,,
+72,Nissan,Versa," $15,755.00 ",,,,
+73,Nissan,Versa Note ," $16,575.00 ",,,,
+74,Nissan,Armada," $48,895.00 ",,,,
+75,Nissan,Kicks," $20,165.00 ",,,,
+76,Nissan,Murano," $32,825.00 ",,,,
+77,Nissan,Pathfinder," $33,075.00 ",,,,
+78,Nissan,Rogue," $26,585.00 ",,,,
+79,Nissan,Rogue Sport," $24,525.00 ",,,,
+80,Nissan,Frontier Crew Cab ," $28,995.00 ",,,,
+81,Nissan,Frontier King Cab ," $27,885.00 ",,,,
+82,Nissan,Titan Crew Cab," $40,485.00 ",,,,
+83,Nissan,Titan King Cab," $37,785.00 ",,,,
+84,Nissan,Titan Single Cab," $32,285.00 ",,,,
+85,Nissan,Leaf," $32,525.00 ",,,,
+86,Nissan,370Z," $31,015.00 ",,,,
+87,Nissan,GT-R," $115,335.00 ",,,,
+88,,,,BMW,2020 BMW 2 Series,"$38,495 ",
+89,,,,BMW,2020 BMW 3 Series,"$41,745 ",
+90,,,,BMW,2020 BMW 4 Series,"$45,745 ",
+91,,,,BMW,2020 BMW 5 Series,"$54,895 ",
+92,,,,BMW,2019 BMW 6 Series,"$71,295 ",
+93,,,,BMW,2020 BMW 7 Series,"$87,445 ",
+94,,,,BMW,2020 BMW 8 Series,"$109,895 ",
+95,,,,BMW,2019 BMW M5,"$104,695 ",
+96,,,,BMW,2019 BMW M6,"$122,195 ",
+97,,,,BMW,2020 BMW X1,"$36,195 ",
+98,,,,BMW,2020 BMW X2,"$37,395 ",
+99,,,,BMW,2020 BMW X3,"$42,945 ",
+100,,,,BMW,2020 BMW X3 M,"$70,895 ",
+101,,,,BMW,2020 BMW X4,"$52,095 ",
+102,,,,BMW,2020 BMW X5,"$59,895 ",
+103,,,,BMW,2020 BMW X6,"$65,295 ",
+104,,,,BMW,2019 BMW X6 M,"$106,695 ",
+105,,,,BMW,2020 BMW X7,"$74,895 ",
+106,,,,BMW,2020 BMW X1,"$36,195 ",
+107,,,,BMW,2020 BMW X2,"$37,395 ",
+108,,,,BMW,2020 BMW X3,"$42,945 ",
+109,,,,BMW,2020 BMW X3 M,"$70,895 ",
+110,,,,BMW,2020 BMW X4,"$52,095 ",
+111,,,,BMW,2020 BMW X5,"$59,895 ",
+112,,,,BMW,2020 BMW X6,"$65,295 ",
+113,,,,BMW,2019 BMW X6 M,"$106,695 ",
+114,,,,BMW,2020 BMW X7,"$74,895 ",
+115,,,,BMW,2020 BMW 2 Series,"$42,095 ",
+116,,,,BMW,2020 BMW 3 Series,"$41,745 ",
+117,,,,BMW,2020 BMW 4 Series,"$54,095 ",
+118,,,,BMW,2020 BMW 5 Series,"$54,895 ",
+119,,,,BMW,2019 BMW 6 Series,"$71,295 ",
+120,,,,BMW,2020 BMW 7 Series,"$87,445 ",
+121,,,,BMW,2019 BMW 8 Series,"$122,395 ",
+122,,,,BMW,2019 BMW i3,"$45,445 ",
+123,,,,BMW,2019 BMW i8,"$164,295 ",
+124,,,,BMW,2020 BMW M2,"$59,895 ",
+125,,,,BMW,2019 BMW M4,"$78,645 ",
+126,,,,BMW,2019 BMW M5,"$104,695 ",
+127,,,,BMW,2019 BMW M6,"$122,195 ",
+128,,,,BMW,2020 BMW X1,"$36,195 ",
+129,,,,BMW,2020 BMW X2,"$37,395 ",
+130,,,,BMW,2020 BMW X3,"$42,945 ",
+131,,,,BMW,2020 BMW X3 M,"$70,895 ",
+132,,,,BMW,2020 BMW X4,"$52,095 ",
+133,,,,BMW,2020 BMW X5,"$59,895 ",
+134,,,,BMW,2020 BMW X6,"$65,295 ",
+135,,,,BMW,2019 BMW X6 M,"$106,695 ",
+136,,,,BMW,2020 BMW X7,"$74,895 ",
+137,,,,BMW,2020 BMW Z4,"$50,695 ",
+138,,,,BMW,2020 BMW 5 Series,"$54,895 ",
+139,,,,BMW,2020 BMW 7 Series,"$96,545 ",
+140,,,,BMW,2019 BMW i3,"$49,295 ",
+141,,,,BMW,2019 BMW i8,"$164,295 ",
+142,,,,BMW,2021 BMW X3,"$50,595 ",
+143,,,,BMW,2020 BMW 5 Series,"$54,895 ",
+144,,,,BMW,2020 BMW 7 Series,"$96,545 ",
+145,,,,BMW,2019 BMW i3,"$45,445 ",
+146,,,,BMW,2019 BMW i8,"$164,295 ",
+147,,,,BMW,2021 BMW X3,"$50,595 ",
+148,,,,BMW,2020 BMW 2 Series,"$36,295 ",
+149,,,,BMW,2020 BMW 4 Series,"$45,945 ",
+150,,,,BMW,2019 BMW 6 Series,"$82,495 ",
+151,,,,BMW,2019 BMW 8 Series,"$112,895 ",
+152,,,,BMW,2019 BMW i8,"$148,495 ",
+153,,,,BMW,2020 BMW M2,"$59,895 ",
+154,,,,BMW,2019 BMW M4,"$70,145 ",
+155,,,,BMW,2019 BMW M6,"$122,195 ",
+156,,,,BMW,2020 BMW Z4,"$50,695 ",
+157,,,,BMW,2020 BMW 4 Series,"$45,745 ",
+158,,,,BMW,2019 BMW 6 Series,"$71,295 ",
+159,,,,BMW,2019 BMW i3,"$45,445 ",
+160,,,,BMW,2020 BMW 2 Series,"$42,095 ",
+161,,,,BMW,2020 BMW 4 Series,"$54,095 ",
+162,,,,BMW,2019 BMW 8 Series,"$122,395 ",
+163,,,,BMW,2019 BMW i8,"$164,295 ",
+164,,,,BMW,2019 BMW M4,"$78,645 ",
+165,,,,BMW,2020 BMW Z4,"$50,695 ",
+166,,,,Audi,2020 Audi A3,"$34,295 ",
+167,,,,Audi,2020 Audi A4,"$38,395 ",
+168,,,,Audi,2020 Audi A5,"$43,895 ",
+169,,,,Audi,2020 Audi A6,"$55,895 ",
+170,,,,Audi,2021 Audi A7,"$70,245 ",
+171,,,,Audi,2019 Audi RS 5,"$75,195 ",
+172,,,,Audi,2020 Audi S3,"$43,995 ",
+173,,,,Audi,2020 Audi S4,"$50,895 ",
+174,,,,Audi,2020 Audi S8,"$130,495 ",
+175,,,,Audi,2019 Audi e-tron,"$75,795 ",
+176,,,,Audi,2020 Audi Q3,"$35,695 ",
+177,,,,Audi,2019 Audi Q5,"$43,945 ",
+178,,,,Audi,2020 Audi Q7,"$55,795 ",
+179,,,,Audi,2021 Audi Q8,"$69,295 ",
+180,,,,Audi,2020 Audi SQ5,"$53,895 ",
+181,,,,Audi,2020 Audi Q3,"$35,695 ",
+182,,,,Audi,2019 Audi Q5,"$43,945 ",
+183,,,,Audi,2020 Audi Q7,"$55,795 ",
+184,,,,Audi,2021 Audi Q8,"$69,295 ",
+185,,,,Audi,2020 Audi SQ5,"$53,895 ",
+186,,,,Audi,2020 Audi A3,"$34,295 ",
+187,,,,Audi,2020 Audi A4,"$38,395 ",
+188,,,,Audi,2019 Audi A4 allroad,"$46,695 ",
+189,,,,Audi,2020 Audi A5,"$50,895 ",
+190,,,,Audi,2020 Audi A6,"$55,895 ",
+191,,,,Audi,2020 Audi A6 allroad,"$66,895 ",
+192,,,,Audi,2021 Audi A7,"$70,245 ",
+193,,,,Audi,2019 Audi e-tron,"$75,795 ",
+194,,,,Audi,2020 Audi Q3,"$35,695 ",
+195,,,,Audi,2019 Audi Q5,"$43,945 ",
+196,,,,Audi,2020 Audi Q7,"$55,795 ",
+197,,,,Audi,2021 Audi Q8,"$69,295 ",
+198,,,,Audi,2020 Audi R8,"$185,050 ",
+199,,,,Audi,2019 Audi RS 5,"$75,195 ",
+200,,,,Audi,2020 Audi S3,"$43,995 ",
+201,,,,Audi,2020 Audi S4,"$50,895 ",
+202,,,,Audi,2020 Audi S8,"$130,495 ",
+203,,,,Audi,2020 Audi SQ5,"$53,895 ",
+204,,,,Audi,2020 Audi TT,"$46,495 ",
+205,,,,Audi,2021 Audi A7,"$75,945 ",
+206,,,,Audi,2020 Audi Q5,"$53,895 ",
+207,,,,Audi,2021 Audi A7,"$75,945 ",
+208,,,,Audi,2019 Audi e-tron,"$75,795 ",
+209,,,,Audi,2020 Audi Q5,"$53,895 ",
+210,,,,Audi,2020 Audi A5,"$43,895 ",
+211,,,,Audi,2020 Audi R8,"$172,850 ",
+212,,,,Audi,2019 Audi RS 5,"$75,195 ",
+213,,,,Audi,2020 Audi TT,"$46,495 ",
+214,,,,Audi,2020 Audi A5,"$43,895 ",
+215,,,,Audi,2021 Audi A7,"$70,245 ",
+216,,,,Audi,2019 Audi RS 5,"$75,195 ",
+217,,,,Audi,2020 Audi TT,"$46,495 ",
+218,,,,Audi,2019 Audi A4 allroad,"$46,695 ",
+219,,,,Audi,2020 Audi A6 allroad,"$66,895 ",
+220,,,,Audi,2020 Audi A5,"$50,895 ",
+221,,,,Audi,2020 Audi R8,"$185,050 ",
+222,,,,VW,2020 Volkswagen Arteon,"$37,015 ",
+223,,,,VW,2019 Volkswagen e-Golf,"$39,790 ",
+224,,,,VW,2020 Volkswagen Golf,"$24,115 ",
+225,,,,VW,2020 Volkswagen Golf GTI,"$29,515 ",
+226,,,,VW,2019 Volkswagen Golf R,"$41,290 ",
+227,,,,VW,2019 Volkswagen Jetta,"$19,440 ",
+228,,,,VW,2020 Volkswagen Jetta GLI,"$27,165 ",
+229,,,,VW,2020 Volkswagen Passat,"$23,915 ",
+230,,,,VW,2021 Volkswagen Atlas,"$32,565 ",
+231,,,,VW,2020 Volkswagen Atlas Cross Sport,"$31,565 ",
+232,,,,VW,2020 Volkswagen Tiguan,"$25,965 ",
+233,,,,VW,2021 Volkswagen Atlas,"$32,565 ",
+234,,,,VW,2020 Volkswagen Atlas Cross Sport,"$31,565 ",
+235,,,,VW,2020 Volkswagen Tiguan,"$25,965 ",
+236,,,,VW,2019 Volkswagen e-Golf,"$39,790 ",
+237,,,,VW,2019 Volkswagen Beetle,"$23,940 ",
+238,,,,VW,2020 Volkswagen Arteon,"$37,015 ",
+239,,,,VW,2019 Volkswagen Beetle,"$23,940 ",
+240,,,,VW,2019 Volkswagen e-Golf,"$39,790 ",
+241,,,,VW,2020 Volkswagen Golf,"$24,115 ",
+242,,,,VW,2020 Volkswagen Golf GTI,"$29,515 ",
+243,,,,VW,2019 Volkswagen Golf R,"$41,290 ",
+244,,,,VW,2019 Volkswagen Golf Alltrack,"$27,790 ",
+245,,,,VW,2019 Volkswagen Golf SportWagen,"$22,790 ",
+246,,,,VW,2019 Volkswagen Beetle,"$26,890 ",
+247,,,,Porsche,2020 Porsche Panamera,"$88,550 ",
+248,,,,Porsche,2020 Porsche Taycan,"$152,250 ",
+249,,,,Porsche,2020 Porsche Cayenne,"$68,150 ",
+250,,,,Porsche,2020 Porsche Cayenne Coupe,"$76,650 ",
+251,,,,Porsche,2020 Porsche Macan,"$52,250 ",
+252,,,,Porsche,2020 Porsche Cayenne,"$68,150 ",
+253,,,,Porsche,2020 Porsche Cayenne Coupe,"$76,650 ",
+254,,,,Porsche,2020 Porsche Macan,"$52,250 ",
+255,,,,Porsche,2020 Porsche 718 Boxster,"$62,300 ",
+256,,,,Porsche,2020 Porsche 718 Cayman,"$58,850 ",
+257,,,,Porsche,2020 Porsche 718 Spyder,"$97,650 ",
+258,,,,Porsche,2020 Porsche 911,"$111,550 ",
+259,,,,Porsche,2020 Porsche Cayenne,"$68,150 ",
+260,,,,Porsche,2020 Porsche Cayenne Coupe,"$76,650 ",
+261,,,,Porsche,2020 Porsche Macan,"$52,250 ",
+262,,,,Porsche,2020 Porsche Panamera,"$88,550 ",
+263,,,,Porsche,2020 Porsche Taycan,"$152,250 ",
+264,,,,Porsche,2020 Porsche Cayenne,"$82,450 ",
+265,,,,Porsche,2020 Porsche Cayenne Coupe,"$87,750 ",
+266,,,,Porsche,2020 Porsche Panamera,"$105,150 ",
+267,,,,Porsche,2020 Porsche Cayenne,"$82,450 ",
+268,,,,Porsche,2020 Porsche Cayenne Coupe,"$87,750 ",
+269,,,,Porsche,2020 Porsche Panamera,"$105,150 ",
+270,,,,Porsche,2020 Porsche Taycan,"$152,250 ",
+271,,,,Porsche,2020 Porsche 718 Cayman,"$58,850 ",
+272,,,,Porsche,2020 Porsche 911,"$98,750 ",
+273,,,,Porsche,2020 Porsche 718 Boxster,"$62,300 ",
+274,,,,Porsche,2020 Porsche 718 Spyder,"$97,650 ",
+275,,,,Porsche,2020 Porsche 911,"$111,550 ",
+276,,,,Mercedes,2020 Mercedes-Benz A-Class,"$33,795 ",
+277,,,,Mercedes,2020 Mercedes-Benz C-Class,"$42,395 ",
+278,,,,Mercedes,2020 Mercedes-Benz CLA,"$37,645 ",
+279,,,,Mercedes,2020 Mercedes-Benz CLS,"$70,945 ",
+280,,,,Mercedes,2020 Mercedes-Benz E-Class,"$55,045 ",
+281,,,,Mercedes,2020 Mercedes-Benz Mercedes-AMG A-Class,"$45,945 ",
+282,,,,Mercedes,2020 Mercedes-Benz Mercedes-AMG C-Class,"$56,945 ",
+283,,,,Mercedes,2019 Mercedes-Benz Mercedes-AMG CLA,"$54,095 ",
+284,,,,Mercedes,2020 Mercedes-Benz Mercedes-AMG CLS,"$82,195 ",
+285,,,,Mercedes,2020 Mercedes-Benz Mercedes-AMG E-Class,"$74,795 ",
+286,,,,Mercedes,2019 Mercedes-Benz Mercedes-AMG GT,"$99,995 ",
+287,,,,Mercedes,2019 Mercedes-Benz Mercedes-AMG S-Class,"$150,545 ",
+288,,,,Mercedes,2019 Mercedes-Benz Mercedes-Maybach S-Class,"$172,195 ",
+289,,,,Mercedes,2020 Mercedes-Benz S-Class,"$93,445 ",
+290,,,,Mercedes,2020 Mercedes-Benz G-Class,"$128,645 ",
+291,,,,Mercedes,2021 Mercedes-Benz GLA,"$37,280 ",
+292,,,,Mercedes,2020 Mercedes-Benz GLB,"$37,595 ",
+293,,,,Mercedes,2020 Mercedes-Benz GLC,"$43,495 ",
+294,,,,Mercedes,2019 Mercedes-Benz GLC Coupe,"$48,295 ",
+295,,,,Mercedes,2020 Mercedes-Benz GLE,"$54,695 ",
+296,,,,Mercedes,2020 Mercedes-Benz GLS,"$76,195 ",
+297,,,,Mercedes,2019 Mercedes-Benz Mercedes-AMG G-Class,"$148,495 ",
+298,,,,Mercedes,2019 Mercedes-Benz Mercedes-AMG GLA,"$54,345 ",
+299,,,,Mercedes,2020 Mercedes-Benz Mercedes-AMG GLC,"$60,495 ",
+300,,,,Mercedes,2020 Mercedes-Benz Mercedes-AMG GLC Coupe,"$63,995 ",
+301,,,,Mercedes,2019 Mercedes-Benz Mercedes-AMG GLE,"$69,145 ",
+302,,,,Mercedes,2019 Mercedes-Benz Mercedes-AMG GLE Coupe,"$72,345 ",
+303,,,,Mercedes,2019 Mercedes-Benz Mercedes-AMG GLS,"$127,145 ",
+304,,,,Mercedes,2021 Mercedes-Benz GLA,"$37,280 ",
+305,,,,Mercedes,2020 Mercedes-Benz GLB,"$37,595 ",
+306,,,,Mercedes,2020 Mercedes-Benz GLC,"$43,495 ",
+307,,,,Mercedes,2019 Mercedes-Benz GLC Coupe,"$48,295 ",
+308,,,,Mercedes,2020 Mercedes-Benz GLE,"$54,695 ",
+309,,,,Mercedes,2020 Mercedes-Benz GLS,"$76,195 ",
+310,,,,Mercedes,2019 Mercedes-Benz Mercedes-AMG GLA,"$54,345 ",
+311,,,,Mercedes,2020 Mercedes-Benz Mercedes-AMG GLC,"$60,495 ",
+312,,,,Mercedes,2020 Mercedes-Benz Mercedes-AMG GLC Coupe,"$63,995 ",
+313,,,,Mercedes,2019 Mercedes-Benz Mercedes-AMG GLE,"$69,145 ",
+314,,,,Mercedes,2019 Mercedes-Benz Mercedes-AMG GLE Coupe,"$72,345 ",
+315,,,,Mercedes,2019 Mercedes-Benz Mercedes-AMG GLS,"$127,145 ",
+316,,,,Mercedes,2020 Mercedes-Benz A-Class,"$33,795 ",
+317,,,,Mercedes,2020 Mercedes-Benz C-Class,"$54,945 ",
+318,,,,Mercedes,2020 Mercedes-Benz CLA,"$37,645 ",
+319,,,,Mercedes,2020 Mercedes-Benz CLS,"$70,945 ",
+320,,,,Mercedes,2020 Mercedes-Benz E-Class,"$72,395 ",
+321,,,,Mercedes,2020 Mercedes-Benz G-Class,"$128,645 ",
+322,,,,Mercedes,2021 Mercedes-Benz GLA,"$37,280 ",
+323,,,,Mercedes,2020 Mercedes-Benz GLB,"$37,595 ",
+324,,,,Mercedes,2020 Mercedes-Benz GLC,"$43,495 ",
+325,,,,Mercedes,2019 Mercedes-Benz GLC Coupe,"$48,295 ",
+326,,,,Mercedes,2020 Mercedes-Benz GLE,"$54,695 ",
+327,,,,Mercedes,2020 Mercedes-Benz GLS,"$76,195 ",
+328,,,,Mercedes,2020 Mercedes-Benz Mercedes-AMG A-Class,"$45,945 ",
+329,,,,Mercedes,2020 Mercedes-Benz Mercedes-AMG C-Class,"$65,745 ",
+330,,,,Mercedes,2019 Mercedes-Benz Mercedes-AMG CLA,"$54,095 ",
+331,,,,Mercedes,2020 Mercedes-Benz Mercedes-AMG CLS,"$82,195 ",
+332,,,,Mercedes,2020 Mercedes-Benz Mercedes-AMG E-Class,"$82,645 ",
+333,,,,Mercedes,2019 Mercedes-Benz Mercedes-AMG G-Class,"$148,495 ",
+334,,,,Mercedes,2019 Mercedes-Benz Mercedes-AMG GLA,"$54,345 ",
+335,,,,Mercedes,2020 Mercedes-Benz Mercedes-AMG GLC,"$60,495 ",
+336,,,,Mercedes,2020 Mercedes-Benz Mercedes-AMG GLC Coupe,"$63,995 ",
+337,,,,Mercedes,2019 Mercedes-Benz Mercedes-AMG GLE,"$69,145 ",
+338,,,,Mercedes,2019 Mercedes-Benz Mercedes-AMG GLE Coupe,"$72,345 ",
+339,,,,Mercedes,2019 Mercedes-Benz Mercedes-AMG GLS,"$127,145 ",
+340,,,,Mercedes,2019 Mercedes-Benz Mercedes-AMG GT,"$125,695 ",
+341,,,,Mercedes,2019 Mercedes-Benz Mercedes-AMG S-Class,"$181,095 ",
+342,,,,Mercedes,2019 Mercedes-Benz Mercedes-AMG SL,"$155,445 ",
+343,,,,Mercedes,2019 Mercedes-Benz Mercedes-AMG SLC,"$64,895 ",
+344,,,,Mercedes,2019 Mercedes-Benz Mercedes-Maybach S-Class,"$172,195 ",
+345,,,,Mercedes,2020 Mercedes-Benz S-Class,"$139,595 ",
+346,,,,Mercedes,2020 Mercedes-Benz SL,"$91,995 ",
+347,,,,Mercedes,2020 Mercedes-Benz SLC,"$50,945 ",
+348,,,,Mercedes,2019 Mercedes-Benz Metris Cargo,"$31,895 ",
+349,,,,Mercedes,2019 Mercedes-Benz Metris Passenger,"$35,995 ",
+350,,,,Mercedes,2020 Mercedes-Benz Metris WORKER Cargo,"$28,375 ",
+351,,,,Mercedes,2020 Mercedes-Benz Metris WORKER Passenger,"$32,545 ",
+352,,,,Mercedes,2020 Mercedes-Benz Sprinter 1500 Cargo,"$35,690 ",
+353,,,,Mercedes,2020 Mercedes-Benz Sprinter 1500 Passenger,"$42,290 ",
+354,,,,Mercedes,2020 Mercedes-Benz Sprinter 2500 Cargo,"$36,915 ",
+355,,,,Mercedes,2020 Mercedes-Benz Sprinter 2500 Crew,"$40,590 ",
+356,,,,Mercedes,2020 Mercedes-Benz Sprinter 2500 Passenger,"$43,515 ",
+357,,,,Mercedes,2020 Mercedes-Benz Sprinter 3500 Cargo,"$46,940 ",
+358,,,,Mercedes,2020 Mercedes-Benz Sprinter 3500 Crew,"$47,840 ",
+359,,,,Mercedes,2020 Mercedes-Benz Sprinter 3500 XD Cargo,"$46,515 ",
+360,,,,Mercedes,2020 Mercedes-Benz Sprinter 3500 XD Crew,"$50,190 ",
+361,,,,Mercedes,2020 Mercedes-Benz Sprinter 4500 Cargo,"$48,565 ",
+362,,,,Mercedes,2020 Mercedes-Benz Sprinter 4500 Crew,"$52,240 ",
+363,,,,Mercedes,2019 Mercedes-Benz GLC,"$51,645 ",
+364,,,,Mercedes,2020 Mercedes-Benz S-Class,"$110,745 ",
+365,,,,Mercedes,2019 Mercedes-Benz GLC,"$51,645 ",
+366,,,,Mercedes,2020 Mercedes-Benz S-Class,"$110,745 ",
+367,,,,Mercedes,2020 Mercedes-Benz C-Class,"$46,945 ",
+368,,,,Mercedes,2020 Mercedes-Benz CLA,"$37,645 ",
+369,,,,Mercedes,2020 Mercedes-Benz CLS,"$70,945 ",
+370,,,,Mercedes,2020 Mercedes-Benz E-Class,"$65,345 ",
+371,,,,Mercedes,2020 Mercedes-Benz Mercedes-AMG C-Class,"$59,495 ",
+372,,,,Mercedes,2019 Mercedes-Benz Mercedes-AMG CLA,"$54,095 ",
+373,,,,Mercedes,2020 Mercedes-Benz Mercedes-AMG CLS,"$82,195 ",
+374,,,,Mercedes,2020 Mercedes-Benz Mercedes-AMG E-Class,"$75,945 ",
+375,,,,Mercedes,2019 Mercedes-Benz Mercedes-AMG GT,"$113,695 ",
+376,,,,Mercedes,2019 Mercedes-Benz Mercedes-AMG S-Class,"$170,445 ",
+377,,,,Mercedes,2019 Mercedes-Benz Mercedes-AMG SL,"$155,445 ",
+378,,,,Mercedes,2019 Mercedes-Benz Mercedes-AMG SLC,"$64,895 ",
+379,,,,Mercedes,2020 Mercedes-Benz S-Class,"$131,145 ",
+380,,,,Mercedes,2020 Mercedes-Benz SL,"$91,995 ",
+381,,,,Mercedes,2020 Mercedes-Benz SLC,"$50,945 ",
+382,,,,Mercedes,2020 Mercedes-Benz E-Class,"$67,095 ",
+383,,,,Mercedes,2020 Mercedes-Benz Mercedes-AMG E-Class,"$112,745 ",
+384,,,,Mercedes,2020 Mercedes-Benz C-Class,"$54,945 ",
+385,,,,Mercedes,2020 Mercedes-Benz E-Class,"$72,395 ",
+386,,,,Mercedes,2020 Mercedes-Benz Mercedes-AMG C-Class,"$65,745 ",
+387,,,,Mercedes,2020 Mercedes-Benz Mercedes-AMG E-Class,"$82,645 ",
+388,,,,Mercedes,2019 Mercedes-Benz Mercedes-AMG GT,"$125,695 ",
+389,,,,Mercedes,2019 Mercedes-Benz Mercedes-AMG S-Class,"$181,095 ",
+390,,,,Mercedes,2019 Mercedes-Benz Mercedes-AMG SL,"$155,445 ",
+391,,,,Mercedes,2019 Mercedes-Benz Mercedes-AMG SLC,"$64,895 ",
+392,,,,Mercedes,2020 Mercedes-Benz S-Class,"$139,595 ",
+393,,,,Mercedes,2020 Mercedes-Benz SL,"$91,995 ",
+394,,,,Mercedes,2020 Mercedes-Benz SLC,"$50,945 ",
+395,,,,,2020 Tesla Model 3,"$39,190 ",Tesla
+396,,,,,2020 Tesla Model S,"$81,190 ",Tesla
+397,,,,,2019 Tesla Model X,"$83,200 ",Tesla
+398,,,,,2020 Tesla Model Y,"$54,190 ",Tesla
+399,,,,,2020 Lincoln Continental,"$60,865 ",Ford
+400,,,,,2020 Lincoln MKZ,"$37,745 ",Ford
+401,,,,,2020 Lincoln Aviator,"$52,195 ",Ford
+402,,,,,2020 Lincoln Corsair,"$36,940 ",Ford
+403,,,,,2019 Lincoln MKC,"$37,745 ",Ford
+404,,,,,2019 Lincoln MKT,"$50,495 ",Ford
+405,,,,,2020 Lincoln Nautilus,"$42,035 ",Ford
+406,,,,,2020 Lincoln Navigator,"$83,020 ",Ford
+407,,,,,2020 Lincoln Navigator L,"$86,220 ",Ford
+408,,,,,2020 Lincoln Aviator-Hybrid,"$69,895 ",Ford
+409,,,,,2019 Cadillac ATS,"$39,990 ",GM
+410,,,,,2019 Cadillac ATS-V,"$68,790 ",GM
+411,,,,,2019 Cadillac CT6-V,"$92,790 ",GM
+412,,,,,2019 Cadillac CTS,"$47,990 ",GM
+413,,,,,2019 Cadillac CTS-V,"$87,990 ",GM
+414,,,,,2019 Cadillac XTS,"$47,890 ",GM
+415,,,,,2020 Cadillac CT4,"$33,990 ",GM
+416,,,,,2020 Cadillac CT5,"$37,890 ",GM
+417,,,,,2020 Cadillac CT6,"$59,990 ",GM
+418,,,,,2020 Cadillac Escalade,"$76,490 ",GM
+419,,,,,2020 Cadillac Escalade ESV,"$79,490 ",GM
+420,,,,,2020 Cadillac XT4,"$36,690 ",GM
+421,,,,,2020 Cadillac XT5,"$49,790 ",GM
+422,,,,,2020 Cadillac XT6,"$53,690 ",GM
+423,,,,,2021 Buick Encore,"$24,195 ",GM
+424,,,,,2021 Buick Encore GX,"$25,195 ",GM
+425,,,,,2020 Buick Regal Sportback,"$28,895 ",GM
+426,,,,,2020 Buick Regal TourX,"$30,295 ",GM
+427,,,,,2019 Buick LaCrosse,"$30,495 ",GM
+428,,,,,2019 Buick Cascada,"$33,995 ",GM
+429,,,,,2020 Buick Enclave,"$41,195 ",GM
+430,,,,,2020 Buick Envision,"$44,795 ",GM
+431,,,,,2019 GMC Savana 2500 Cargo,"$33,095 ",GM
+432,,,,,2019 GMC Savana 2500 Passenger,"$36,095 ",GM
+433,,,,,2019 GMC Savana 3500 Cargo,"$36,195 ",GM
+434,,,,,2019 GMC Savana 3500 Passenger,"$38,395 ",GM
+435,,,,,2019 GMC Sierra 1500 Limited Double Cab,"$36,595 ",GM
+436,,,,,2019 GMC Sierra 1500 Regular Cab,"$31,095 ",GM
+437,,,,,2019 GMC Sierra 2500 HD Double Cab,"$39,695 ",GM
+438,,,,,2019 GMC Sierra 2500 HD Regular Cab,"$40,095 ",GM
+439,,,,,2020 GMC Sierra 1500 Crew Cab,"$37,495 ",GM
+440,,,,,2020 GMC Sierra 1500 Double Cab,"$39,595 ",GM
+441,,,,,2020 GMC Sierra 2500 HD Crew Cab,"$41,595 ",GM
+442,,,,,2020 GMC Sierra 3500 HD Crew Cab,"$66,495 ",GM
+443,,,,,2020 GMC Terrain,"$26,195 ",GM
+444,,,,,2021 GMC Acadia,"$30,995 ",GM
+445,,,,,2021 GMC Canyon Crew Cab,"$29,495 ",GM
+446,,,,,2021 GMC Canyon Extended Cab,"$27,595 ",GM
+447,,,,,2021 GMC Yukon,"$69,695 ",GM
+448,,,,,2021 GMC Yukon XL,"$54,695 ",GM
+449,,,,,2019 Chevrolet Cruze,"$18,870 ",GM
+450,,,,,2019 Chevrolet Equinox,"$24,995 ",GM
+451,,,,,2019 Chevrolet Express 2500 Passenger,"$36,095 ",GM
+452,,,,,2019 Chevrolet Express 3500 Passenger,"$38,395 ",GM
+453,,,,,2019 Chevrolet Malibu,"$28,945 ",GM
+454,,,,,2019 Chevrolet Silverado 1500 Crew Cab,"$42,695 ",GM
+455,,,,,2019 Chevrolet Silverado 1500 Double Cab,"$33,695 ",GM
+456,,,,,2019 Chevrolet Silverado 1500 LD Double Cab,"$35,995 ",GM
+457,,,,,2019 Chevrolet Volt,"$34,395 ",GM
+458,,,,,2020 Chevrolet Bolt EV,"$37,495 ",GM
+459,,,,,2020 Chevrolet Camaro,"$26,495 ",GM
+460,,,,,2020 Chevrolet Corvette,"$59,995 ",GM
+461,,,,,2020 Chevrolet Express 2500 Cargo,"$33,795 ",GM
+462,,,,,2020 Chevrolet Express 3500 Cargo,"$36,895 ",GM
+463,,,,,2020 Chevrolet Impala,"$32,495 ",GM
+464,,,,,2020 Chevrolet Malibu,"$22,970 ",GM
+465,,,,,2020 Chevrolet Silverado 1500 Regular Cab,"$29,895 ",GM
+466,,,,,2020 Chevrolet Silverado 2500 HD Crew Cab,"$39,895 ",GM
+467,,,,,2020 Chevrolet Silverado 2500 HD Double Cab,"$38,595 ",GM
+468,,,,,2020 Chevrolet Silverado 3500 HD Crew Cab,"$41,095 ",GM
+469,,,,,2020 Chevrolet Sonic,"$20,295 ",GM
+470,,,,,2020 Chevrolet Spark,"$14,095 ",GM
+471,,,,,2020 Chevrolet Suburban,"$52,995 ",GM
+472,,,,,2021 Chevrolet Blazer,"$29,995 ",GM
+473,,,,,2021 Chevrolet Colorado Crew Cab,"$28,295 ",GM
+474,,,,,2021 Chevrolet Colorado Extended Cab,"$26,395 ",GM
+475,,,,,2021 Chevrolet Corvette,"$67,495 ",GM
+476,,,,,2021 Chevrolet Silverado 2500 HD Regular Cab,"$36,295 ",GM
+477,,,,,2021 Chevrolet Tahoe,"$55,095 ",GM
+478,,,,,2021 Chevrolet Trailblazer,"$19,995 ",GM
+479,,,,,2021 Chevrolet Traverse,"$44,895 ",GM
+480,,,,,2021 Chevrolet Trax,"$22,395 ",GM
+481,,,,,2019 Ford Expedition,"$53,525 ",Ford
+482,,,,,2019 Ford Fiesta,"$15,235 ",Ford
+483,,,,,2019 Ford Flex,"$31,670 ",Ford
+484,,,,,2019 Ford Fusion Energi,"$35,490 ",Ford
+485,,,,,2019 Ford Taurus,"$38,405 ",Ford
+486,,,,,2019 Ford Transit 150 Van,"$34,630 ",Ford
+487,,,,,2019 Ford Transit 150 Wagon,"$37,335 ",Ford
+488,,,,,2019 Ford Transit 250 Van,"$35,580 ",Ford
+489,,,,,2019 Ford Transit 350 HD Van,"$42,700 ",Ford
+490,,,,,2019 Ford Transit 350 Van,"$37,285 ",Ford
+491,,,,,2019 Ford Transit 350 Wagon,"$41,065 ",Ford
+492,,,,,2019 Ford Transit Connect Cargo,"$25,295 ",Ford
+493,,,,,2020 Ford EcoSport,"$21,090 ",Ford
+494,,,,,2020 Ford Edge,"$32,345 ",Ford
+495,,,,,2020 Ford Escape,"$28,290 ",Ford
+496,,,,,2020 Ford Expedition MAX,"$57,230 ",Ford
+497,,,,,2020 Ford Explorer,"$34,010 ",Ford
+498,,,,,2020 Ford F150 Regular Cab,"$30,090 ",Ford
+499,,,,,2020 Ford F150 Super Cab,"$34,175 ",Ford
+500,,,,,2020 Ford F150 SuperCrew Cab,"$36,630 ",Ford
+501,,,,,2020 Ford F250 Super Duty Crew Cab,"$38,890 ",Ford
+502,,,,,2020 Ford F250 Super Duty Regular Cab,"$35,730 ",Ford
+503,,,,,2020 Ford F250 Super Duty Super Cab,"$38,065 ",Ford
+504,,,,,2020 Ford F350 Super Duty Crew Cab,"$46,530 ",Ford
+505,,,,,2020 Ford F350 Super Duty Regular Cab,"$37,245 ",Ford
+506,,,,,2020 Ford F350 Super Duty Super Cab,"$39,580 ",Ford
+507,,,,,2020 Ford F450 Super Duty Crew Cab,"$56,325 ",Ford
+508,,,,,2020 Ford F450 Super Duty Regular Cab,"$51,905 ",Ford
+509,,,,,2020 Ford Fusion,"$35,790 ",Ford
+510,,,,,2020 Ford Fusion Plug-in Hybrid,"$36,195 ",Ford
+511,,,,,2020 Ford Mustang,"$27,765 ",Ford
+512,,,,,2020 Ford Ranger SuperCab,"$25,605 ",Ford
+513,,,,,2020 Ford Ranger SuperCrew,"$31,830 ",Ford
+514,,,,,2020 Ford Transit 150 Cargo Van,"$36,205 ",Ford
+515,,,,,2020 Ford Transit 150 Crew Van,"$38,415 ",Ford
+516,,,,,2020 Ford Transit 150 Passenger Van,"$41,875 ",Ford
+517,,,,,2020 Ford Transit 250 Cargo Van,"$37,155 ",Ford
+518,,,,,2020 Ford Transit 250 Crew Van,"$39,365 ",Ford
+519,,,,,2020 Ford Transit 350 Passenger Van,"$42,730 ",Ford
+520,,,,,2020 Ford Transit Connect Cargo Van,"$25,570 ",Ford
+521,,,,,2020 Ford Transit Connect Passenger Wagon,"$33,545 ",Ford
+522,,,,,2021 Ford Bronco Sport,"$28,155 ",Ford
+523,,,,,2020 Alfa Romeo 4C Spider,"$68,745 ",Chrysler
+524,,,,,2020 Alfa Romeo Giulia,"$40,695 ",Chrysler
+525,,,,,2020 Alfa Romeo Stelvio,"$42,695 ",Chrysler
+526,,,,,2020 Chrysler 300,"$31,535 ",Chrysler
+527,,,,,2020 Chrysler Pacifica,"$34,990 ",Chrysler
+528,,,,,2020 Chrysler Pacifica Hybrid,"$41,490 ",Chrysler
+529,,,,,2021 Chrysler Voyager,"$28,730 ",Chrysler
+530,,,,,2019 Dodge Grand Caravan Passenger,"$27,595 ",Chrysler
+531,,,,,2020 Dodge Challenger,"$29,590 ",Chrysler
+532,,,,,2020 Dodge Charger,"$31,390 ",Chrysler
+533,,,,,2020 Dodge Durango,"$45,490 ",Chrysler
+534,,,,,2020 Dodge Journey,"$25,170 ",Chrysler
+535,,,,,2019 FIAT 500,"$17,740 ",Chrysler
+536,,,,,2019 FIAT 500 Abarth,"$21,990 ",Chrysler
+537,,,,,2019 FIAT 500c,"$19,485 ",Chrysler
+538,,,,,2019 FIAT 500c Abarth,"$23,485 ",Chrysler
+539,,,,,2019 FIAT 500e,"$34,705 ",Chrysler
+540,,,,,2020 FIAT 124 Spider,"$27,880 ",Chrysler
+541,,,,,2020 FIAT 500L,"$23,995 ",Chrysler
+542,,,,,2020 FIAT 500X,"$26,085 ",Chrysler
+543,,,,,2019 Jeep Wrangler Unlimited,"$33,040 ",Chrysler
+544,,,,,2020 Jeep Renegade,"$25,620 ",Chrysler
+545,,,,,2020 Jeep Wrangler,"$29,790 ",Chrysler
+546,,,,,2021 Jeep Cherokee,"$27,785 ",Chrysler
+547,,,,,2021 Jeep Compass,"$25,390 ",Chrysler
+548,,,,,2021 Jeep Gladiator,"$35,060 ",Chrysler
+549,,,,,2021 Jeep Grand Cherokee,"$35,715 ",Chrysler
+550,,,,,2019 Maserati Ghibli,"$76,975 ",Chrysler
+551,,,,,2019 Maserati GranTurismo,"$152,975 ",Chrysler
+552,,,,,2019 Maserati Levante,"$78,385 ",Chrysler
+553,,,,,2019 Maserati Quattroporte,"$109,975 ",Chrysler
+554,,,,,2019 Ram 1500 Classic Regular Cab,"$29,090 ",Chrysler
+555,,,,,2019 Ram 1500 Quad Cab,"$34,535 ",Chrysler
+556,,,,,2019 Ram 2500 Regular Cab,"$35,090 ",Chrysler
+557,,,,,2019 Ram 3500 Mega Cab,"$49,545 ",Chrysler
+558,,,,,2019 Ram 3500 Regular Cab,"$36,790 ",Chrysler
+559,,,,,2020 Ram 1500 Classic Crew Cab,"$40,240 ",Chrysler
+560,,,,,2020 Ram 1500 Classic Quad Cab,"$33,800 ",Chrysler
+561,,,,,2020 Ram 1500 Crew Cab,"$36,640 ",Chrysler
+562,,,,,2020 Ram 2500 Crew Cab,"$63,145 ",Chrysler
+563,,,,,2020 Ram 2500 Mega Cab,"$48,445 ",Chrysler
+564,,,,,2020 Ram 3500 Crew Cab,"$40,345 ",Chrysler
+565,,,,,2020 Ram ProMaster City,"$26,075 ",Chrysler
+566,,,,,2021 Ram ProMaster Cargo Van,"$33,235 ",Chrysler
+567,,,,,2021 Ram ProMaster Window Van,"$38,985 ",Chrysler

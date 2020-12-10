@@ -1,0 +1,174 @@
+﻿Company,Model,MSRP
+Tesla,2020 Tesla Model 3,39190
+Tesla,2020 Tesla Model S,81190
+Tesla,2019 Tesla Model X,83200
+Tesla,2020 Tesla Model Y,54190
+Ford,2020 Lincoln Continental,60865
+Ford,2020 Lincoln MKZ,37745
+Ford,2020 Lincoln Aviator,52195
+Ford,2020 Lincoln Corsair,36940
+Ford,2019 Lincoln MKC,37745
+Ford,2019 Lincoln MKT,50495
+Ford,2020 Lincoln Nautilus,42035
+Ford,2020 Lincoln Navigator,83020
+Ford,2020 Lincoln Navigator L,86220
+Ford,2020 Lincoln Aviator-Hybrid,69895
+GM,2019 Cadillac ATS,39990
+GM,2019 Cadillac ATS-V,68790
+GM,2019 Cadillac CT6-V,92790
+GM,2019 Cadillac CTS,47990
+GM,2019 Cadillac CTS-V,87990
+GM,2019 Cadillac XTS,47890
+GM,2020 Cadillac CT4,33990
+GM,2020 Cadillac CT5,37890
+GM,2020 Cadillac CT6,59990
+GM,2020 Cadillac Escalade,76490
+GM,2020 Cadillac Escalade ESV,79490
+GM,2020 Cadillac XT4,36690
+GM,2020 Cadillac XT5,49790
+GM,2020 Cadillac XT6,53690
+GM,2021 Buick Encore,24195
+GM,2021 Buick Encore GX,25195
+GM,2020 Buick Regal Sportback,28895
+GM,2020 Buick Regal TourX,30295
+GM,2019 Buick LaCrosse,30495
+GM,2019 Buick Cascada,33995
+GM,2020 Buick Enclave,41195
+GM,2020 Buick Envision,44795
+GM,2019 GMC Savana 2500 Cargo,33095
+GM,2019 GMC Savana 2500 Passenger,36095
+GM,2019 GMC Savana 3500 Cargo,36195
+GM,2019 GMC Savana 3500 Passenger,38395
+GM,2019 GMC Sierra 1500 Limited Double Cab,36595
+GM,2019 GMC Sierra 1500 Regular Cab,31095
+GM,2019 GMC Sierra 2500 HD Double Cab,39695
+GM,2019 GMC Sierra 2500 HD Regular Cab,40095
+GM,2020 GMC Sierra 1500 Crew Cab,37495
+GM,2020 GMC Sierra 1500 Double Cab,39595
+GM,2020 GMC Sierra 2500 HD Crew Cab,41595
+GM,2020 GMC Sierra 3500 HD Crew Cab,66495
+GM,2020 GMC Terrain,26195
+GM,2021 GMC Acadia,30995
+GM,2021 GMC Canyon Crew Cab,29495
+GM,2021 GMC Canyon Extended Cab,27595
+GM,2021 GMC Yukon,69695
+GM,2021 GMC Yukon XL,54695
+GM,2019 Chevrolet Cruze,18870
+GM,2019 Chevrolet Equinox,24995
+GM,2019 Chevrolet Express 2500 Passenger,36095
+GM,2019 Chevrolet Express 3500 Passenger,38395
+GM,2019 Chevrolet Malibu,28945
+GM,2019 Chevrolet Silverado 1500 Crew Cab,42695
+GM,2019 Chevrolet Silverado 1500 Double Cab,33695
+GM,2019 Chevrolet Silverado 1500 LD Double Cab,35995
+GM,2019 Chevrolet Volt,34395
+GM,2020 Chevrolet Bolt EV,37495
+GM,2020 Chevrolet Camaro,26495
+GM,2020 Chevrolet Corvette,59995
+GM,2020 Chevrolet Express 2500 Cargo,33795
+GM,2020 Chevrolet Express 3500 Cargo,36895
+GM,2020 Chevrolet Impala,32495
+GM,2020 Chevrolet Malibu,22970
+GM,2020 Chevrolet Silverado 1500 Regular Cab,29895
+GM,2020 Chevrolet Silverado 2500 HD Crew Cab,39895
+GM,2020 Chevrolet Silverado 2500 HD Double Cab,38595
+GM,2020 Chevrolet Silverado 3500 HD Crew Cab,41095
+GM,2020 Chevrolet Sonic,20295
+GM,2020 Chevrolet Spark,14095
+GM,2020 Chevrolet Suburban,52995
+GM,2021 Chevrolet Blazer,29995
+GM,2021 Chevrolet Colorado Crew Cab,28295
+GM,2021 Chevrolet Colorado Extended Cab,26395
+GM,2021 Chevrolet Corvette,67495
+GM,2021 Chevrolet Silverado 2500 HD Regular Cab,36295
+GM,2021 Chevrolet Tahoe,55095
+GM,2021 Chevrolet Trailblazer,19995
+GM,2021 Chevrolet Traverse,44895
+GM,2021 Chevrolet Trax,22395
+Ford,2019 Ford Expedition,53525
+Ford,2019 Ford Fiesta,15235
+Ford,2019 Ford Flex,31670
+Ford,2019 Ford Fusion Energi,35490
+Ford,2019 Ford Taurus,38405
+Ford,2019 Ford Transit 150 Van,34630
+Ford,2019 Ford Transit 150 Wagon,37335
+Ford,2019 Ford Transit 250 Van,35580
+Ford,2019 Ford Transit 350 HD Van,42700
+Ford,2019 Ford Transit 350 Van,37285
+Ford,2019 Ford Transit 350 Wagon,41065
+Ford,2019 Ford Transit Connect Cargo,25295
+Ford,2020 Ford EcoSport,21090
+Ford,2020 Ford Edge,32345
+Ford,2020 Ford Escape,28290
+Ford,2020 Ford Expedition MAX,57230
+Ford,2020 Ford Explorer,34010
+Ford,2020 Ford F150 Regular Cab,30090
+Ford,2020 Ford F150 Super Cab,34175
+Ford,2020 Ford F150 SuperCrew Cab,36630
+Ford,2020 Ford F250 Super Duty Crew Cab,38890
+Ford,2020 Ford F250 Super Duty Regular Cab,35730
+Ford,2020 Ford F250 Super Duty Super Cab,38065
+Ford,2020 Ford F350 Super Duty Crew Cab,46530
+Ford,2020 Ford F350 Super Duty Regular Cab,37245
+Ford,2020 Ford F350 Super Duty Super Cab,39580
+Ford,2020 Ford F450 Super Duty Crew Cab,56325
+Ford,2020 Ford F450 Super Duty Regular Cab,51905
+Ford,2020 Ford Fusion,35790
+Ford,2020 Ford Fusion Plug-in Hybrid,36195
+Ford,2020 Ford Mustang,27765
+Ford,2020 Ford Ranger SuperCab,25605
+Ford,2020 Ford Ranger SuperCrew,31830
+Ford,2020 Ford Transit 150 Cargo Van,36205
+Ford,2020 Ford Transit 150 Crew Van,38415
+Ford,2020 Ford Transit 150 Passenger Van,41875
+Ford,2020 Ford Transit 250 Cargo Van,37155
+Ford,2020 Ford Transit 250 Crew Van,39365
+Ford,2020 Ford Transit 350 Passenger Van,42730
+Ford,2020 Ford Transit Connect Cargo Van,25570
+Ford,2020 Ford Transit Connect Passenger Wagon,33545
+Ford,2021 Ford Bronco Sport,28155
+Chrysler,2020 Alfa Romeo 4C Spider,68745
+Chrysler,2020 Alfa Romeo Giulia,40695
+Chrysler,2020 Alfa Romeo Stelvio,42695
+Chrysler,2020 Chrysler 300,31535
+Chrysler,2020 Chrysler Pacifica,34990
+Chrysler,2020 Chrysler Pacifica Hybrid,41490
+Chrysler,2021 Chrysler Voyager,28730
+Chrysler,2019 Dodge Grand Caravan Passenger,27595
+Chrysler,2020 Dodge Challenger,29590
+Chrysler,2020 Dodge Charger,31390
+Chrysler,2020 Dodge Durango,45490
+Chrysler,2020 Dodge Journey,25170
+Chrysler,2019 FIAT 500,17740
+Chrysler,2019 FIAT 500 Abarth,21990
+Chrysler,2019 FIAT 500c,19485
+Chrysler,2019 FIAT 500c Abarth,23485
+Chrysler,2019 FIAT 500e,34705
+Chrysler,2020 FIAT 124 Spider,27880
+Chrysler,2020 FIAT 500L,23995
+Chrysler,2020 FIAT 500X,26085
+Chrysler,2019 Jeep Wrangler Unlimited,33040
+Chrysler,2020 Jeep Renegade,25620
+Chrysler,2020 Jeep Wrangler,29790
+Chrysler,2021 Jeep Cherokee,27785
+Chrysler,2021 Jeep Compass,25390
+Chrysler,2021 Jeep Gladiator,35060
+Chrysler,2021 Jeep Grand Cherokee,35715
+Chrysler,2019 Maserati Ghibli,76975
+Chrysler,2019 Maserati GranTurismo,152975
+Chrysler,2019 Maserati Levante,78385
+Chrysler,2019 Maserati Quattroporte,109975
+Chrysler,2019 Ram 1500 Classic Regular Cab,29090
+Chrysler,2019 Ram 1500 Quad Cab,34535
+Chrysler,2019 Ram 2500 Regular Cab,35090
+Chrysler,2019 Ram 3500 Mega Cab,49545
+Chrysler,2019 Ram 3500 Regular Cab,36790
+Chrysler,2020 Ram 1500 Classic Crew Cab,40240
+Chrysler,2020 Ram 1500 Classic Quad Cab,33800
+Chrysler,2020 Ram 1500 Crew Cab,36640
+Chrysler,2020 Ram 2500 Crew Cab,63145
+Chrysler,2020 Ram 2500 Mega Cab,48445
+Chrysler,2020 Ram 3500 Crew Cab,40345
+Chrysler,2020 Ram ProMaster City,26075
+Chrysler,2021 Ram ProMaster Cargo Van,33235
+Chrysler,2021 Ram ProMaster Window Van,38985
